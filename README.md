@@ -10,3 +10,4 @@ Refactoring
 ##References :
 
 * Martin Fowler, http://refactoring.com/catalog/
+* My own know.
