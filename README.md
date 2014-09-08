@@ -16,12 +16,14 @@ Refactoring
 ##Simplifying Conditional Expressions
 
 * [Consolidate Conditional Expression](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ConsolidateConditionalExpression.md)
-* [Consolidate Duplicate Conditional Fragments](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
-* [](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
-* [](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
-* [](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
-* [](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
-* [](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
+* [Consolidate Duplicate Conditional Fragments](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ConsolidateDuplicateConditionalFragments.md)
+* [Decompose Conditional](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/DecomposeConditional.md)
+* [Introduce Assertion](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/IntroduceAssertion.md)
+* [Introduce Null Object](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/IntroduceNullObject.md)
+* [Remove Control Flag](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/RemoveControlFlag.md)
+* [Replace Conditional with Polymorphism](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ReplaceConditionalWithPolymorphism.md)
+* [Replace Nested Conditional with Guard Clauses](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ReplaceNestedConditionalWithGuardClauses.md)
+
 
 
 
