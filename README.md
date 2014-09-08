@@ -25,9 +25,6 @@ Refactoring
 * [Replace Nested Conditional with Guard Clauses](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ReplaceNestedConditionalWithGuardClauses.md)
 
 
-
-
-
 ##References :
 
 * Martin Fowler, http://refactoring.com/catalog/
