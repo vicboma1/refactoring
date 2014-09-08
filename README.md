@@ -13,6 +13,18 @@ Refactoring
 * [Split Temporary Variable](https://github.com/vicboma1/refactoring/blob/master/composingmethods/SplitTemporaryVariable.md)
 * [Substitute Algorithm](https://github.com/vicboma1/refactoring/blob/master/composingmethods/SubstituteAlgorithm.md)
 
+##Simplifying Conditional Expressions
+
+* [Consolidate Conditional Expression](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ConsolidateConditionalExpression.md)
+* [Consolidate Duplicate Conditional Fragments](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
+* [](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
+* [](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
+* [](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
+* [](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
+* [](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/.md)
+
+
+
 
 ##References :
 
