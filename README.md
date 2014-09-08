@@ -1,4 +1,6 @@
-refactoring
+Refactoring
 ===========
 
-refactors code
+##Composing Methods
+
+* [Extract Method]()
