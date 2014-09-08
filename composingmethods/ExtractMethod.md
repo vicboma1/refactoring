@@ -1,4 +1,3 @@
-
 #Extract Method
 
 ###Agrupar fragmentos de código en métodos propios :

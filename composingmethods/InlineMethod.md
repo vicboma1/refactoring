@@ -1,4 +1,3 @@
-
 #Inline Method
 
 ###Si el cuerpo del método es tan claro como su nombre, agruparlo todo en el mismo método :
