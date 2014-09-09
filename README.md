@@ -32,7 +32,7 @@ Refactoring
 * [Move Field](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/MoveField.md)
 * [Inline Class](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/InlineClass.md)
 * [Introduce Foreign Method](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/IntroduceForeignMethod.md)
-* [Introduce Local Extension]()
+* [Introduce Local Extension](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/IntroduceLocalExtension.md)
 
 
 ##References :
