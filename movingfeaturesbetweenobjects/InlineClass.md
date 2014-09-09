@@ -1,6 +1,6 @@
 #Inline Class
 
-###Cuando una clase no aporta solvencia, eliminarla y añadir sus atributos a otras.
+###Cuando una clase no aporta solvencia, eliminarla y añadir sus atributos a otras :
 
 ```
  public class Person {
