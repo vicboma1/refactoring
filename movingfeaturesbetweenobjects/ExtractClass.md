@@ -1,7 +1,6 @@
 #Extract Class
 
-###Simplificar una clase con la información semánticamente necesaria y componerla 
-###con otra clase que tenga la información adicional :
+###Simplificar una clase con la información semánticamente necesaria y componerla con otra clase que tenga la información adicional :
 
 ```
  public class Person {
@@ -75,6 +74,6 @@ public class Person {
       }
    }
    
-´´´
+```
 
 
