@@ -25,12 +25,12 @@ Refactoring
 * [Replace Nested Conditional with Guard Clauses](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ReplaceNestedConditionalWithGuardClauses.md)
 
 ##Moving Features Between Objects
-* [Extract Class](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/ExtractClass.md)
-* [Remove Middle Man]()
-* [Hide Delegate]()
+* [Extract Class](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/ExtractClass.md))
+* [Remove Middle Man](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/RemoveMiddleMan.md)
+* [Hide Delegate](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/HideDelegate.md)
 * [Move Method]()
 * [Move Field]()
-* [Inline Class]()
+* [Inline Class](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/InlineClass.md)
 * [Introduce Foreign Method]()
 * [Introduce Local Extension]()
 
