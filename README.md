@@ -29,9 +29,9 @@ Refactoring
 * [Remove Middle Man](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/RemoveMiddleMan.md)
 * [Hide Delegate](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/HideDelegate.md)
 * [Move Method](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/MoveMethod.md)
-* [Move Field]()
+* [Move Field](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/MoveField.md)
 * [Inline Class](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/InlineClass.md)
-* [Introduce Foreign Method]()
+* [Introduce Foreign Method](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/IntroduceForeignMethod.md)
 * [Introduce Local Extension]()
 
 

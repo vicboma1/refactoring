@@ -1,6 +1,6 @@
 #Move Method
 
-###Cuando tengamos dos clases compuestas, intentar mover los metedos a las clases más débiles.
+###Cuando tengamos dos clases compuestas, intentar mover los metodos a las clases que más los usen :
 
 ```
   public class Account {
