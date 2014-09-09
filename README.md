@@ -24,6 +24,16 @@ Refactoring
 * [Replace Conditional with Polymorphism](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ReplaceConditionalWithPolymorphism.md)
 * [Replace Nested Conditional with Guard Clauses](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ReplaceNestedConditionalWithGuardClauses.md)
 
+##Moving Features Between Objects
+* [Extract Class](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/ExtractClass.md))
+* [Remove Middle Man]()
+* [Hide Delegate]()
+* [Move Method]()
+* [Move Field]()
+* [Inline Class]()
+* [Introduce Foreign Method]()
+* [Introduce Local Extension]()
+
 
 ##References :
 
