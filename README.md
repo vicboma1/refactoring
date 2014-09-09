@@ -26,7 +26,7 @@ Refactoring
 
 ##Moving Features Between Objects
 * [Extract Class](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/ExtractClass.md))
-* [Remove Middle Man]()
+* [Remove Middle Man](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/RemoveMiddleMan.md)
 * [Hide Delegate](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/HideDelegate.md)
 * [Move Method]()
 * [Move Field]()
