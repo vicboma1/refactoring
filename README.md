@@ -30,7 +30,7 @@ Refactoring
 * [Hide Delegate]()
 * [Move Method]()
 * [Move Field]()
-* [Inline Class]()
+* [Inline Class](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/InlineClass.md)
 * [Introduce Foreign Method]()
 * [Introduce Local Extension]()
 
