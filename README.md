@@ -1,4 +1,4 @@
-Refactoring (WIP)
+Refactoring 
 ===========
 
 ##Composing Methods
