@@ -39,3 +39,7 @@ Refactoring
 
 * Martin Fowler, http://refactoring.com/catalog/
 * My own know.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/refactoring/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
