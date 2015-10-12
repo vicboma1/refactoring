@@ -1,6 +1,9 @@
 Refactoring 
 ===========
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/refactoring/trend.png)](https://bitdeli.com/free "Bitdeli Badge") [![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/injector/readme)](https://github.com/igrigorik/ga-beacon)
+
+
 ##Composing Methods
 
 * [Extract Method](https://github.com/vicboma1/refactoring/blob/master/composingmethods/ExtractMethod.md)
@@ -40,6 +43,4 @@ Refactoring
 * Martin Fowler, http://refactoring.com/catalog/
 * My own know.
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/refactoring/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
