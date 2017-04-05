@@ -3,7 +3,7 @@ Refactoring
 [![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/refactoring/readme)](https://github.com/igrigorik/ga-beacon)
 
 
-##Composing Methods
+## Composing Methods
 
 * [Extract Method](https://github.com/vicboma1/refactoring/blob/master/composingmethods/ExtractMethod.md)
 * [Inline Method](https://github.com/vicboma1/refactoring/blob/master/composingmethods/InlineMethod.md)
@@ -15,7 +15,7 @@ Refactoring
 * [Split Temporary Variable](https://github.com/vicboma1/refactoring/blob/master/composingmethods/SplitTemporaryVariable.md)
 * [Substitute Algorithm](https://github.com/vicboma1/refactoring/blob/master/composingmethods/SubstituteAlgorithm.md)
 
-##Simplifying Conditional Expressions
+## Simplifying Conditional Expressions
 
 * [Consolidate Conditional Expression](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ConsolidateConditionalExpression.md)
 * [Consolidate Duplicate Conditional Fragments](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ConsolidateDuplicateConditionalFragments.md)
@@ -26,7 +26,7 @@ Refactoring
 * [Replace Conditional with Polymorphism](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ReplaceConditionalWithPolymorphism.md)
 * [Replace Nested Conditional with Guard Clauses](https://github.com/vicboma1/refactoring/blob/master/simplifyingconditionalexpressions/ReplaceNestedConditionalWithGuardClauses.md)
 
-##Moving Features Between Objects
+## Moving Features Between Objects
 * [Extract Class](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/ExtractClass.md)
 * [Remove Middle Man](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/RemoveMiddleMan.md)
 * [Hide Delegate](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/HideDelegate.md)
@@ -37,7 +37,7 @@ Refactoring
 * [Introduce Local Extension](https://github.com/vicboma1/refactoring/blob/master/movingfeaturesbetweenobjects/IntroduceLocalExtension.md)
 
 
-##References :
+## References :
 
 * Martin Fowler, http://refactoring.com/catalog/
 * My own know.
